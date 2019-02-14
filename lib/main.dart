@@ -35,7 +35,7 @@ class AppMaps extends StatefulWidget {
 class _AppMapsState extends State<AppMaps> {
 
     GoogleMapController mapController;
-    final LatLng _center = const LatLng(-12.1083343, -76.9714964);
+    //final LatLng _center = const LatLng(-12.1083343, -76.9714964);
 
   @override
   Widget build(BuildContext context) {
